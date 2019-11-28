@@ -1,0 +1,1 @@
+export VAULT_TOKEN=s.Jaq1RE5cPobRnOGCOtthf0iD
